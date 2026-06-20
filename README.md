@@ -54,7 +54,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity😎
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maldii14&theme=tokyo-night&hide_border=true&area=true"/>
@@ -62,7 +62,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies🥶
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Maldii14&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -70,39 +70,39 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me 🫂 
 
 <p align="center">
-  <a href="https://youtube.com/@s4salmanyt"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="http://Wa.me/923184070915"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://facebook.com/AhmmiKun"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/ahmmikun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/ahmmikun"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ahmmikun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://youtube.com/@Maldives_mak"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="http://Wa.me/254758732775"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.facebook.com/share/1EPtNj25yw/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/eschoninco1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://x.com/eschoninco"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://linkedin.com/in/eschoninco"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>  
 
 ---
 
-## 📫 Contact
+## 📫 Contact🍀📥
 
 - 📧 Email: **jamesmakani5@gmail.com**
 - 📱 WhatsApp: **+254795402999**
 
 ---
 
-## 💡 Philosophy
+## 💡 Philosophy🫵
 
 > "Technology is most powerful when it improves human life. My mission is to combine medical engineering and software development to build solutions that make healthcare smarter, more accessible, and more effective."
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact🫥
 
 I enjoy exploring the intersection between healthcare technology, engineering, and software development. Every project is an opportunity to learn something new and create something useful.
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Current Focus🤑
 
 - Full-Stack Web Development
 - Software Engineering
